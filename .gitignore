@@ -1,0 +1,9 @@
+# 只包含游戏运行所需的文件
+/*
+!/index.html
+!/js/
+!/assets/
+!/.gitignore
+
+# 小游戏专用适配层，网页版不需要
+/js/wx-adapter.js

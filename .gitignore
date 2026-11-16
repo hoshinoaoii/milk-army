@@ -1,6 +1,7 @@
-# 只包含游戏运行所需的文件
+# 只包含游戏运行所需的文件 + 一个给玩家看的 README
 /*
 !/index.html
+!/README.md
 !/js/
 !/assets/
 !/.gitignore
